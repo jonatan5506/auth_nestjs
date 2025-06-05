@@ -57,17 +57,6 @@ npm install -D @types/passport-jwt @types/bcrypt
 
 ---
 
-## 🏃‍♀️ Executando o projeto
-
-```bash
-# Inicia a API em modo de desenvolvimento (porta padrão 3000)
-npm run start:dev
-```
-
-Acesse `http://localhost:3000` no navegador ou utilize um client REST (Insomnia, Postman) para interagir com os endpoints.
-
----
-
 ## 📌 Roadmap
 
 * [ ] Separar responsabilidades entre **Service** e **Repository** no domínio `user`
